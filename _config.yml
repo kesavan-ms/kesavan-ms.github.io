@@ -14,20 +14,12 @@ show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
-theme:
-  features:
-    - navigation.footer
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "teaching.md", title: "Teaching"}
   - {title: "CV" , url: "kesavan.pdf"}
   - {file: "links.md", title: "Links"}
-
-  extra:
-  social:
-    - name: Office: 340 Avery Hall
-
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:km2@huskers.unl.edu"}
