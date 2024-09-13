@@ -1,6 +1,6 @@
 ---
-title: University of Nebraska - Lincoln
-permalink: "/University of Nebraska - Lincoln/"
+title: U N L
+permalink: "/U N L/"
 layout: page
 ---
 
