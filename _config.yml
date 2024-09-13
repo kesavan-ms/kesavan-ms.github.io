@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "teaching.md", title: "Teaching"}
   - {title: "CV" , url: "kesavan.pdf"}
+  - {file: "visits.md", title: "Visits"} 
   - {file: "links.md", title: "Links"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
