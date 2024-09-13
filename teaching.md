@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# University of Nebraska - Lincoln
-
 ## Instructor of Record
 
 - Fall 2024 - Math 102, Trigonometry
