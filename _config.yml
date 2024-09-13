@@ -17,10 +17,11 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
-  - {file: "README.md", title: "About"}
+  - {file: "README.md", title: ""}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:km2@huskers.unl.edu"}
+  - {title: Office, description: "Office: 340 Avery Hall"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
