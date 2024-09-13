@@ -24,6 +24,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV" , url: "kesavan.pdf"}
   - {file: "links.md", title: "Links"}
 
+  extra:
+  social:
+    - name: Office: 340 Avery Hall
+
+
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:km2@huskers.unl.edu"}
 
