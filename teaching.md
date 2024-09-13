@@ -1,6 +1,5 @@
 ---
 title: U N L
-permalink: "/U N L/"
 layout: page
 ---
 
