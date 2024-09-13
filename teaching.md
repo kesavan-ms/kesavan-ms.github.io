@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## University of Nebraska - Lincoln
+# University of Nebraska - Lincoln
 
 ## Instructor of Record
 
