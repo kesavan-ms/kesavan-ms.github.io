@@ -5,6 +5,8 @@ title: "Workshops/Conferences"
 The following is a list of workshops and conferences that I have attended.
 
 **2024**
+- AIS - Cohomology of Commutative Algebras in Chennai, India
+- KUMUNU in Columbia, Missouri
 - BRIDGES at University of Utah
 - URiCA (Upcoming Researchers in Commutative Algebra) at University of Nebraska-Lincoln
 - Recent Developments in Commutative Algebra in MSRI/SLMath, Berkeley, California
