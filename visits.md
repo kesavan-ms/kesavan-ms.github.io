@@ -2,7 +2,13 @@
 title: "Workshops/Conferences"
 ---
 
-The following is a list of workshops and conferences that I have attended.
+**2025**
+- Commutative algebra in mixed characteristic, UNL
+- Rayfest, UNL
+- URiCA, UNL
+- An Introduction to Recent Trends in Commutative Algebra, Fields Institute, Canada
+- Singularities in Algebra and Geometry, CIMAT, Mexico
+- Summer CAMP, UNL
 
 **2024**
 - AIS - Cohomology of Commutative Algebras at IIT Madras, India
