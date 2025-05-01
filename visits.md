@@ -3,12 +3,12 @@ title: "Workshops/Conferences"
 ---
 
 **2025**
-- Commutative algebra in mixed characteristic, UNL
-- Rayfest, UNL
-- URiCA, UNL
-- An Introduction to Recent Trends in Commutative Algebra, Fields Institute, Canada
-- Singularities in Algebra and Geometry, CIMAT, Mexico
-- Summer CAMP, UNL
+- Summer CAMP 2.0 (Commutative Algebra Market Preparedness) at University of Nebraska-Lincoln
+- Singularities in Algebra and Geometry at CIMAT, Mexico
+- An Introduction to Recent Trends in Commutative Algebra at The Fields Institute, Canada
+- URiCA (Upcoming Researchers in Commutative Algebra) at University of Nebraska-Lincoln
+- Rayfest at University of Nebraska-Lincoln
+- Commutative algebra in mixed characteristic at University of Nebraska-Lincoln
 
 **2024**
 - AIS - Cohomology of Commutative Algebras at IIT Madras, India
