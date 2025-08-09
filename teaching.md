@@ -5,6 +5,7 @@ layout: page
 
 ## Instructor of Record
 
+- Fall 2025 - Math 103, [College Algebra and Trigonometry](https://catalog.unl.edu/undergraduate/courses/math/#:~:text=College%20Algebra%20and%20Trigonometry)
 - Spring 2025 - Math 102, [Trigonometry](https://catalog.unl.edu/undergraduate/courses/math/#:~:text=Trigonometry)
 - Fall 2024 - Math 102, [Trigonometry](https://catalog.unl.edu/undergraduate/courses/math/#:~:text=Trigonometry)
 
