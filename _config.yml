@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "visits.md", title: "Visits"} 
   - {title: "CV" , url: "CV_UNL.pdf"}
-  - {file: "links.md", title: "Links"}
+  - {file: "links.md", title: "Seminars"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:km2@huskers.unl.edu"}
