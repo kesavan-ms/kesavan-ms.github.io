@@ -3,6 +3,10 @@ title: U N L
 layout: page
 ---
 
+## Research Assistant
+
+- Summer 2025
+
 ## Instructor of Record
 
 - Fall 2025 - Math 103, [College Algebra and Trigonometry](https://catalog.unl.edu/undergraduate/courses/math/#:~:text=College%20Algebra%20and%20Trigonometry)
