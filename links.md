@@ -2,8 +2,10 @@
 layout: page
 ---
 
-- UNL CARS - [Commutative Algebra Reading Seminar](https://cars-unl.github.io/index.html)
-- UNL CAS - [Commutative Algebra Seminar](https://nebraskacommalg.github.io/RTG/seminar.html)
-- UNL Big CMinar - [Seminar on Big Cohen-Macaulay modules](https://nebraskacommalg.github.io/RTG/BigCMinar)
-- UNL CAABS - [Commutative Algebra and Adjacent Book-club Session](https://caabsatunl.github.io/CAABS/)
-- [Commalg.org](https://www.commalg.org) 
+## I am currently co-organizing 
+
+
+## Past seminars co-organized
+
+- Summer CARS - [Summer 2024](https://cars-unl.github.io/2024Summer.html), [Summer 2025] 
+- UNL CARS - [Spring 2024](https://cars-unl.github.io/2024Spring.html)
