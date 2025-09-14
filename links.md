@@ -7,7 +7,7 @@ layout: page
 
 - [UNL Cohomology Club](https://sites.google.com/view/cohomologyclub/home)
 - [UNL Directed Reading Program](https://drp-unl.github.io/projects.html)
-- Virtual CAAGS 
+- [Virtual CAAGS](https://sites.google.com/view/virtualcaags/home) 
 
 ## Past seminars co-organized
 
