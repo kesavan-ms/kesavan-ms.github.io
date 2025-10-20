@@ -13,5 +13,8 @@ layout: page
 
 ## UNL [Commutative Algebra Reading Seminar](https://cars-unl.github.io/index.html)
 
-- Summer 2024 - A Zariski-Nagata theorem for smooth \mathbb{Z}-algebras
+- Fall 2025 - A stratification by F-pure threshold
+- Summer 2025 - Measuring singularities with Frobenius
+- Spring 2025 - Arithmetic rank and cohomological dimension in commutative algebra
+- Summer 2024 - A Zariski-Nagata theorem for smooth Z-algebras
 - Spring 2024 - Adams operations in commutative algebra
