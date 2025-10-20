@@ -25,3 +25,8 @@ layout: page
 - Spring 2025 - DG algebra resolutions
 - Spring 2024 - Powers of ideals
 - Fall 2023 - An introduction to Schur polynomials.
+
+## Virtual [CAAGS](https://sites.google.com/view/virtualcaags/home)
+
+- Fall 2025 - The derived category of a DG algebra
+- Fall 2024 - Kähler Differentials
