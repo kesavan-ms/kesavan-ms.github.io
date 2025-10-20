@@ -3,6 +3,9 @@ title: "Workshops/Conferences"
 ---
 
 **2025**
+- PL - Commutative algebra and modular representation theory at IIT Madras, India
+- KUMUNU at University of Missouri, Columbia
+- AMS Fall Central Sectional Meeting at Saint Louis University, Missouri
 - Summer CAMP 2.0 (Commutative Algebra Market Preparedness) at University of Nebraska-Lincoln
 - Singularities in Algebra and Geometry at CIMAT, Mexico
 - An Introduction to Recent Trends in Commutative Algebra at The Fields Institute, Canada
