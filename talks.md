@@ -18,3 +18,10 @@ layout: page
 - Spring 2025 - Arithmetic rank and cohomological dimension in commutative algebra
 - Summer 2024 - A Zariski-Nagata theorem for smooth Z-algebras
 - Spring 2024 - Adams operations in commutative algebra
+
+## UNL Graduate Student Seminar 
+
+- Fall 2025 - Algebras with a Straightening Law
+- Spring 2025 - DG algebra resolutions
+- Spring 2024 - Powers of ideals
+- Fall 2023 - An introduction to Schur polynomials.
