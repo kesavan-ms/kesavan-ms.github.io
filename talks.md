@@ -1,5 +1,5 @@
 ---
-title: U N L
+title: UNL/Invited talks
 layout: page
 ---
 
