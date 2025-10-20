@@ -13,4 +13,5 @@ layout: page
 
 ## UNL [Commutative Algebra Reading Seminar](https://cars-unl.github.io/index.html)
 
-- 
+- Summer 2024 - A Zariski-Nagata theorem for smooth \mathbb{Z}-algebras
+- Spring 2024 - Adams operations in commutative algebra
