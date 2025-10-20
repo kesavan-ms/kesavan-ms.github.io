@@ -1,5 +1,5 @@
 ---
-title: 
+title: Invited/Seminar talks
 layout: page
 ---
 
