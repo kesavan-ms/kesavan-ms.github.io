@@ -6,7 +6,7 @@ layout: page
 ## Currently co-organizing
 
 - UNL [Directed Reading Program](https://drp-unl.github.io/projects.html) with [Derek Deblieck](https://math.unl.edu/person/derek-deblieck/) and [Ryan Watson](https://rawatson1997.github.io)
-- Virtual [CAAGS](https://sites.google.com/view/virtualcaags/home) with [Mifron Fernandes](https://math.missouri.edu/people/graduate-student/fernandes)
+- Virtual [Commutative Algebra and Algebraic Geometry Seminar](https://sites.google.com/view/virtualcaags/home) with [Mifron Fernandes](https://math.missouri.edu/people/graduate-student/fernandes)
 
 ## Past seminars co-organized
 
