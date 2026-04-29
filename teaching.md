@@ -5,7 +5,8 @@ layout: page
 
 ## Research Assistant
 
-- Summer 2025
+- Fall -- 2026
+- Summer -- 2025, 2026
 
 ## Instructor of Record
 
