@@ -3,7 +3,7 @@ title: "Workshops/Conferences"
 ---
 
 **2026**
-- Singularities in Commutative Algebra Through Cohomological Methods at MSRI/SLMath, California
+- Singularities in Commutative Algebra through Cohomological methods at MSRI/SLMath, California
 - Pan-American School in Commutative Algebra 2.0 at CIMAT, Mexico
 - A Celebration of Golod’s Mathematical Legacy at University of Warwick, UK
 - AMS Spring Central Sectional Meeting at University of North Dakota
