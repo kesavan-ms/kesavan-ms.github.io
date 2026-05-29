@@ -10,3 +10,7 @@ layout: page
 2. Lifting systems for finite length modules <br>
    with Benjamin Katz, Nawaj KC, Andrew J. Soto Levins, and Ryan Watson <br>
    submitted, 19 pages. [[arXiv](https://arxiv.org/abs/2602.01440)]
+
+3. Cohomological support varieties for monomial ideals <br>
+   with Kara Fagerstrom, Julianne Faur, Benjamin Katz, Stephen Stern, and Ryan Watson <br>
+   preprint, 32 pages. [[arXiv](https://arxiv.org/abs/2605.29103)]
