@@ -3,14 +3,22 @@ title: Seminars/Programs
 layout: page
 ---
 
-## Currently co-organizing
+**Currently co-organizing**
 
-- UNL [Directed Reading Program (DRP)](https://drp-unl.github.io/projects.html) with [Derek Deblieck](https://math.unl.edu/person/derek-deblieck/) and [Ryan Watson](https://rawatson1997.github.io)
+- UNL Directed Reading Program (DRP) <br>
+  2026 to 2027 with Derek Deblieck <br>
+  [2025 to 2026](https://drp-unl.github.io/projects.html) with Derek Deblieck and Ryan Watson
 
-## Past seminars co-organized
+**Past seminars co-organized**
 
-- Virtual [Commutative Algebra and Algebraic Geometry Seminar (CAAGS)](https://sites.google.com/view/virtualcaags/home) from 2024 to 2026 with [Ganapathy Krishnamoorthy](https://sites.google.com/view/gana-math/home?authuser=0) and [Mifron Fernandes](https://math.missouri.edu/people/graduate-student/fernandes)
-- UNL [Commutative Algebra and Adjacent Book-club Session (CAABS)](https://caabsatunl.github.io/CAABS/current.html) in Spring 2026 with [Robert Ireland](https://robertirelandmath.github.io)
-- UNL [Cohomology Club](https://sites.google.com/view/cohomologyclub/home) in Fall 2025 with [Anna Brosowsky](https://anna-brosowsky.github.io) and [Jack Jeffries](https://jack-jeffries.github.io)
-- Summer CARS in [Summer 2024](https://cars-unl.github.io/2024Summer.html) and [Summer 2025](https://cars-unl.github.io/2025Summer.html) with [Julianne Faur](https://juliannefaur.github.io) and [Ryan Watson](https://rawatson1997.github.io) 
-- UNL [Commutative Algebra Reading Seminar (CARS)](https://cars-unl.github.io/index.html) in [Spring 2024](https://cars-unl.github.io/2024Spring.html) with Shalom Echalaz Alvarez
+- UNL Commutative Algebra Reading Seminar (CARS) <br>
+  Summer 2026 with Xinyu (Nicole) Xie <br>
+  [Summer 2025](https://cars-unl.github.io/2025Summer.html) with Julianne Faur and Ryan Watson <br>
+  [Summer 2024](https://cars-unl.github.io/2024Summer.html) with Shalom Echalaz Alvarez <br>
+  [Spring 2024](https://cars-unl.github.io/2024Spring.html) with Shalom Echalaz Alvarez
+- Virtual Commutative Algebra and Algebraic Geometry Seminar (CAAGS) <br>
+  [2024 to 2026](https://sites.google.com/view/virtualcaags/home) with Ganapathy Krishnamoorthy and Mifron Fernandes
+- UNL Commutative Algebra and Adjacent Book-club Session (CAABS) <br>
+  [Spring 2026](https://caabsatunl.github.io/CAABS/current.html) with Robert Ireland
+- UNL Cohomology Club <br>
+  [Fall 2025](https://sites.google.com/view/cohomologyclub/home) with Anna Brosowsky and Jack Jeffries
