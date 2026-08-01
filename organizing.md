@@ -13,8 +13,8 @@ UNL Directed Reading Program (DRP) <br>
 
 UNL Commutative Algebra Reading Seminar (CARS)
   - Summer 2026 with Xinyu (Nicole) Xie
-  - [Summer 2025](https://cars-unl.github.io/2025Summer.html) with Julianne Faur and Ryan Watson <br>
-  - [Summer 2024](https://cars-unl.github.io/2024Summer.html) with Shalom Echalaz Alvarez <br>
+  - [Summer 2025](https://cars-unl.github.io/2025Summer.html) with Julianne Faur and Ryan Watson
+  - [Summer 2024](https://cars-unl.github.io/2024Summer.html) with Shalom Echalaz Alvarez
   - [Spring 2024](https://cars-unl.github.io/2024Spring.html) with Shalom Echalaz Alvarez <br>
   
 Virtual Commutative Algebra and Algebraic Geometry Seminar (CAAGS)
