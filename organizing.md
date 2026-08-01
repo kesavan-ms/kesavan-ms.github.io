@@ -3,7 +3,7 @@ title: Seminars/Programs
 layout: page
 ---
 
-<p><u>**Currently co-organizing**</u></p>
+<u>**Currently co-organizing**</u>
 
 UNL Directed Reading Program (DRP)
   - 2026 to 2027 with Derek Deblieck
