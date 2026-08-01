@@ -3,7 +3,7 @@ title: Invited/Seminar talks
 layout: page
 ---
 
-**Invited talks**
+**Invited talks:**
 
 - The arithmetic rank of residual intersections of a complete intersection ideal, AMS Spring Central Meeting at NDSU, April 18th 2026
 - The arithmetic rank of residual intersections of a complete intersection ideal, UTK Graduate Student Seminar, April 13th 2026 
@@ -11,7 +11,7 @@ layout: page
 - Lifting systems for finite length modules, Purdue Student Algebra Seminar, November 11th 2025 
 - The arithmetic rank of residual intersections of a complete intersection ideal, Colegio De Matemàticos Del Peru, October 8th 2025
 
-**Seminar talks**
+**Seminar talks:**
 
 - Vanishing theorems in Local cohomology, UNL CARS, July 2nd 2026
 - Regularity of Modules over a Koszul Algebra, RTG Learning Seminar, March 9th 2026
