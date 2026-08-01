@@ -1,6 +1,3 @@
----
-layout: page
----
 
 ## Invited talks
 
@@ -27,7 +24,7 @@ layout: page
 - Adams operations in commutative algebra, UNL CARS, Febraury 28th 2024 
 - An introduction to Schur polynomials, UNL GSS, September 14th 2023 
 
-CARS - Commutative Algebra Reading Seminar
+CARS - Commutative Algebra Reading Seminar 
 CAS - Commutative Algebra Seminar
 GSS - Graduate Student Seminar 
 CAAGS - Commutative Algebra and Algebraic Geometry Seminar
