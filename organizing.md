@@ -3,13 +3,13 @@ title: Seminars/Programs
 layout: page
 ---
 
-<p><span style="text-decoration: underline;">Currently co-organizing</span></p>
+## Currently co-organizing
 
 UNL Directed Reading Program (DRP)
   - 2026 to 2027 with Derek Deblieck
   - [2025 to 2026](https://drp-unl.github.io/projects.html) with Derek Deblieck and Ryan Watson
 
-**Past seminars co-organized**
+## Past seminars co-organized
 
 UNL Commutative Algebra Reading Seminar (CARS)
   - Summer 2026 with Xinyu (Nicole) Xie
