@@ -3,6 +3,7 @@ title: "Workshops/Conferences"
 ---
 
 **2026**
+- URiCA (Upcoming Researchers in Commutative Algebra) at University of Nebraska-Lincoln
 - Singularities in Commutative Algebra through Cohomological methods at MSRI/SLMath, California
 - Pan-American School in Commutative Algebra 2.0 at CIMAT, Mexico
 - A Celebration of Golod’s Mathematical Legacy at University of Warwick, UK
