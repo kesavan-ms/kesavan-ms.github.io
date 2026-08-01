@@ -5,6 +5,8 @@ layout: page
 
 **Invited talks**
 
+- The arithmetic rank of residual intersections of a complete intersection ideal I, AMS Spring Central Meeting NDSU, April 18th 2026
+- The arithmetic rank of residual intersections of a complete intersection ideal, UTK Graduate Student Seminar, April 13th 2026 
 - The arithmetic rank of residual intersections of a complete intersection ideal, IIT Madras Special Seminar, December 11th 2025
 - Lifting systems for finite length modules, Purdue Student Algebra Seminar, November 11th 2025 
 - The arithmetic rank of residual intersections of a complete intersection ideal, Colegio De Matemàticos Del Peru, October 8th 2025
