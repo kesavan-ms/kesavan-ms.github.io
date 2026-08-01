@@ -6,8 +6,8 @@ layout: page
 **Currently co-organizing**
 
 - UNL Directed Reading Program (DRP) <br>
-  : 2026 to 2027 with Derek Deblieck <br>
-  : [2025 to 2026](https://drp-unl.github.io/projects.html) with Derek Deblieck and Ryan Watson
+  :- 2026 to 2027 with Derek Deblieck <br>
+  :- [2025 to 2026](https://drp-unl.github.io/projects.html) with Derek Deblieck and Ryan Watson
 
 **Past seminars co-organized**
 
