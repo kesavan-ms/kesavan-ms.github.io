@@ -11,17 +11,17 @@ UNL Directed Reading Program (DRP) <br>
 
 **Past seminars co-organized**
 
-UNL Commutative Algebra Reading Seminar (CARS) <br>
+UNL Commutative Algebra Reading Seminar (CARS)
   - Summer 2026 with Xinyu (Nicole) Xie <br>
   - [Summer 2025](https://cars-unl.github.io/2025Summer.html) with Julianne Faur and Ryan Watson <br>
   - [Summer 2024](https://cars-unl.github.io/2024Summer.html) with Shalom Echalaz Alvarez <br>
   - [Spring 2024](https://cars-unl.github.io/2024Spring.html) with Shalom Echalaz Alvarez <br>
   
-Virtual Commutative Algebra and Algebraic Geometry Seminar (CAAGS) <br>
+Virtual Commutative Algebra and Algebraic Geometry Seminar (CAAGS)
   - [2024 to 2026](https://sites.google.com/view/virtualcaags/home) with Ganapathy Krishnamoorthy and Mifron Fernandes <br>
 
-UNL Commutative Algebra and Adjacent Book-club Session (CAABS) <br>
+UNL Commutative Algebra and Adjacent Book-club Session (CAABS)
   - [Spring 2026](https://caabsatunl.github.io/CAABS/current.html) with Robert Ireland <br>
 
-UNL Cohomology Club <br>
+UNL Cohomology Club
   - [Fall 2025](https://sites.google.com/view/cohomologyclub/home) with Anna Brosowsky and Jack Jeffries
