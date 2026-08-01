@@ -11,7 +11,7 @@ UNL Directed Reading Program (DRP) <br>
 
 **Past seminars co-organized**
 
-UNL Commutative Algebra Reading Seminar (CARS)
+UNL Commutative Algebra Reading Seminar (CARS) :
   - Summer 2026 with Xinyu (Nicole) Xie <br>
   - [Summer 2025](https://cars-unl.github.io/2025Summer.html) with Julianne Faur and Ryan Watson <br>
   - [Summer 2024](https://cars-unl.github.io/2024Summer.html) with Shalom Echalaz Alvarez <br>
