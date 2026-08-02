@@ -1,5 +1,5 @@
 ---
-title: Events Co-organized
+title: Events co-organized
 layout: page
 ---
 
