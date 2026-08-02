@@ -1,5 +1,5 @@
 ---
-title: Seminars/Programs
+title: Events Co-organized
 layout: page
 ---
 
