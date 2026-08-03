@@ -3,18 +3,18 @@ title: U N L
 layout: page
 ---
 
-**Research Assistant**
+## Research Assistant
 
 - Spring -- 2027
 - Summer -- 2025, 2026
 
-**Instructor of Record**
+## Instructor of Record
 
 - Fall 2025 -- Math 103, [College Algebra and Trigonometry](https://catalog.unl.edu/undergraduate/courses/math/#:~:text=College%20Algebra%20and%20Trigonometry)
 - Spring 2025 -- Math 102, [Trigonometry](https://catalog.unl.edu/undergraduate/courses/math/#:~:text=Trigonometry)
 - Fall 2024 -- Math 102, [Trigonometry](https://catalog.unl.edu/undergraduate/courses/math/#:~:text=Trigonometry)
 
-**Teaching Assistant**
+## Teaching Assistant
 
 - Fall 2026 -- Math 208, [Calculus III](https://catalog.unl.edu/undergraduate/courses/math/#:~:text=Calculus%20III)
 - Spring 2026 -- Math 208, [Calculus III](https://catalog.unl.edu/undergraduate/courses/math/#:~:text=Calculus%20III)
