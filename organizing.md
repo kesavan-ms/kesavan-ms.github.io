@@ -4,8 +4,8 @@ layout: page
 ---
 
 UNL Directed Reading Program (DRP)
-  - 2026 to 2027 with Derek Deblieck
-  - [2025 to 2026](https://drp-unl.github.io/projects.html) with Derek Deblieck and Ryan Watson
+  - [Fall 2026](https://drp-unl.github.io/projects.html) with Derek Deblieck
+  - [Fall 2025](https://drp-unl.github.io/projects_F25.html), [Spring 2026](https://drp-unl.github.io/projects_S26.html) with Derek Deblieck and Ryan Watson
 
 UNL Commutative Algebra Reading Seminar (CARS)
   - [Summer 2026](https://cars-unl.github.io/2026Summer.html) with Xinyu (Nicole) Xie
