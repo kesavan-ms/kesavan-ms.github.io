@@ -11,7 +11,7 @@ I am a fourth year PhD Candidate in the [Department of Mathematics](https://math
 You can find my CV [here!](Kesavan_CV-5.pdf)
 
 **Contact:** km2@huskers.unl.edu <br/>
-**Office:** 340 Avery Hall, UNL
+**Office:** 326 Avery Hall, UNL
 
 
 
