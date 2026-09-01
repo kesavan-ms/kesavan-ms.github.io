@@ -14,3 +14,7 @@ layout: page
 3. Cohomological support varieties for monomial ideals <br>
    with Kara Fagerstrom, Julianne Faur, Benjamin Katz, Stephen Stern, and Ryan Watson <br>
    submitted, 32 pages. [[arXiv](https://arxiv.org/abs/2605.29103)]
+
+4. The arithmetic rank of nullcones of classical invariant rings <br>
+   with Manav Batavia, and Aryaman Maithani <br>
+   preprint, 17 pages. [[arXiv](https://arxiv.org/abs/2608.29445)]
