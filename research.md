@@ -17,4 +17,4 @@ layout: page
 
 4. The arithmetic rank of nullcones of classical invariant rings <br>
    with Manav Batavia, and Aryaman Maithani <br>
-   preprint, 17 pages. [[arXiv](https://arxiv.org/abs/2608.29445)]
+   submitted, 17 pages. [[arXiv](https://arxiv.org/abs/2608.29445)]
