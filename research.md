@@ -6,9 +6,6 @@ mathjax: true
 description: "Publications and preprints by Kesavan Mohana Sundaram in commutative algebra and homological algebra."
 ---
 
-My research is in Commutative Algebra and Homological Algebra. More particularly, arithmetic rank, cohomological support varieties, local cohomology, modules of finite length and finite projective dimension, and symbolic powers.
-{: .research-intro}
-
 ## Published papers
 
 {% include papers.html category="published" %}
