@@ -15,6 +15,7 @@ hide_title: true
     <div class="profile-links">
       <a class="cv-link" href="{{ '/Current_CV.pdf' | relative_url }}">Download CV (PDF)</a>
       <a href="https://arxiv.org/a/mohanasundaram_k_1.html">arXiv</a>
+      <a href="https://orcid.org/0009-0005-9478-791X">ORCID</a>
     </div>
     <p class="contact-details"><a href="mailto:km2@huskers.unl.edu">km2@huskers.unl.edu</a><br>Office: 326 Avery Hall, University of Nebraska–Lincoln</p>
   </div>
