@@ -3,7 +3,7 @@
   {% for paper in papers %}
   <li value="{{ paper.number }}">
     <h3 class="paper-title">{% if paper.arxiv %}<a href="{{ paper.arxiv }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</h3>
-    <p class="paper-authors">with {{ paper.coauthors }}</p>
+    <p class="paper-authors">with {% for coauthor in paper.coauthors %}{% unless forloop.first %}{% if forloop.last %}{% if forloop.length > 2 %},{% endif %} and {% else %}, {% endif %}{% endunless %}{% assign coauthor_url = site.data.coauthors[coauthor] %}{% if coauthor_url %}<a href="{{ coauthor_url }}">{{ coauthor }}</a>{% else %}{{ coauthor }}{% endif %}{% endfor %}</p>
     {% if paper.journal %}<p class="paper-citation"><em>{{ paper.journal }}</em> {{ paper.citation }}</p>{% endif %}
     {% if paper.arxiv or paper.doi %}<p class="paper-links">{% if paper.arxiv %}<a href="{{ paper.arxiv }}">arXiv</a>{% endif %}{% if paper.arxiv and paper.doi %}<span aria-hidden="true"> · </span>{% endif %}{% if paper.doi %}<a href="{{ paper.doi }}">Journal</a>{% endif %}</p>{% endif %}
     {% if paper.abstract %}

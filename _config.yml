@@ -28,7 +28,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:km2@huskers.unl.edu"}
-  - {title: arXiv, url: "https://arxiv.org/a/mohanasundaram_k_1.html"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

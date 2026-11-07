@@ -37,7 +37,6 @@
 {% endif %}
 
 <header>
-  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
 </header>
 
@@ -48,7 +47,7 @@
 {% if site.external %}
 <footer>
   <div>Last updated: <time datetime="{{ site.last_updated }}">{{ site.last_updated | date: "%B %-d, %Y" }}</time></div>
-  {% include menu.html menu=site.external label="Contact and profiles" %}
+  {% include menu.html menu=site.external label="Contact" %}
 </footer>
 {% endif %}
 

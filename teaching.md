@@ -2,26 +2,25 @@
 title: Teaching & Mentoring
 layout: page
 permalink: /teaching/
+page_class: teaching-page
 description: "Teaching experience and undergraduate mentoring at the University of Nebraska–Lincoln."
 ---
 
-My teaching and mentoring at the University of Nebraska–Lincoln include serving as an instructor of record, a graduate teaching assistant, a grader, and a mentor in the [Directed Reading Program](https://drp-unl.github.io/index.html).
-
 ## Mentoring
 
-### Positive characteristic methods in commutative algebra
+<section class="mentoring-entry" aria-labelledby="positive-characteristic">
+  <h3 id="positive-characteristic">Positive characteristic methods in commutative algebra</h3>
+  <p class="mentoring-meta"><strong>Fall 2026 · Directed Reading Program</strong></p>
+  <p>Undergraduate mentee: Maxim Karpuk, co-advised with Robert Ireland.</p>
+  <p>Reading: §1 of <a href="https://jack-jeffries.github.io/files/CanadaLectures.pdf">Jack Jeffries’s Frobenius notes</a> and §§1–2 of <a href="https://link.springer.com/book/10.1007/978-3-031-88819-9"><em>Beginning in Algebraic Geometry</em></a> by Clader and Ross.</p>
+</section>
 
-**Fall 2026 · Directed Reading Program**<br>
-Undergraduate mentee: Maxim Karpuk, co-advised with Robert Ireland.
-
-Reading: §1 of [Jack Jeffries’s Frobenius notes](https://jack-jeffries.github.io/files/CanadaLectures.pdf) and §§1–2 of [*Beginning in Algebraic Geometry*](https://link.springer.com/book/10.1007/978-3-031-88819-9) by Clader and Ross.
-
-### Representation theory of finite groups
-
-**Spring 2026 · Directed Reading Program**<br>
-Undergraduate mentee: Eric Woods, now a graduate student at UNL.
-
-Read through §8 of [*Groups and their Representations*](https://fardila.com/Clase/RepTh/smith.pdf) by Karen Smith.
+<section class="mentoring-entry" aria-labelledby="representation-theory">
+  <h3 id="representation-theory">Representation theory of finite groups</h3>
+  <p class="mentoring-meta"><strong>Spring 2026 · Directed Reading Program</strong></p>
+  <p>Undergraduate mentee: <a href="https://math.unl.edu/person/eric-woods/">Eric Woods</a>, now a graduate student at UNL.</p>
+  <p>Read through <a href="https://fardila.com/Clase/RepTh/smith.pdf"><em>Groups and their Representations</em></a> by Karen Smith.</p>
+</section>
 
 ## Instructor of record
 
@@ -37,11 +36,3 @@ Read through §8 of [*Groups and their Representations*](https://fardila.com/Cla
 | Math 208 — Calculus III | Spring 2026, Fall 2026 |
 | Math 107 — Calculus II | Spring 2024 |
 | Math 106 — Calculus I | Fall 2023, Summer 2024 |
-
-## Grader
-
-| Course | Semester |
-| :--- | :--- |
-| Math 905 — Commutative Algebra I | Fall 2026 |
-| Math 818 — Introduction to Modern Algebra II | Spring 2026 |
-| Math 309 — Introduction to Proofs | Fall 2025 |

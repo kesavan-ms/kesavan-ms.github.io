@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article>
+<article{% if page.page_class %} class="{{ page.page_class }}"{% endif %}>
   {% if page.title and page.hide_title != true %}<header><h1>{{ page.title }}</h1></header>{% endif %}
   {{ content }}
 </article>

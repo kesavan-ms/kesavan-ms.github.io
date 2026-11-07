@@ -1,6 +1,7 @@
 ---
 title: Service & Organization
 layout: page
+page_class: service-page
 permalink: /organizing/
 description: "Seminar organizing, departmental service, and mathematics outreach."
 ---
