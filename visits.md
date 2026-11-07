@@ -1,6 +1,7 @@
 ---
 title: Research Visits & Conferences
 layout: page
+page_class: visits-page
 permalink: /visits/
 section: talks
 description: "Research visits, conferences, and mathematics programs attended by Kesavan Mohana Sundaram."
