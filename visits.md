@@ -14,8 +14,10 @@ description: "Research visits, conferences, and mathematics programs attended by
 ### [SLMath AxIOM program](https://www.slmath.org/axiom/410)
 
 **Planned visit · January–February 2027 · Berkeley, California**
+{: .visit-meta}
 
 Program member, *Commutative Algebra, Representation Theory, and other Interactions*, at SLMath (formerly MSRI).
+{: .visit-description}
 
 ## Conferences and programs attended
 
