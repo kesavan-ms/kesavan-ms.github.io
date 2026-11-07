@@ -11,7 +11,7 @@
 
 - number: 2
   category: preprint
-  status: Submitted
+  status: submitted
   title: Lifting systems for finite length modules
   coauthors: ["Benjamin Katz", "Nawaj KC", "Andrew J. Soto Levins", "Ryan Watson"]
   arxiv: https://arxiv.org/abs/2602.01440
@@ -20,7 +20,7 @@
 
 - number: 3
   category: preprint
-  status: Submitted
+  status: submitted
   title: Cohomological support varieties for monomial ideals
   coauthors: ["Kara Fagerstrom", "Julianne Faur", "Benjamin Katz", "Stephen Stern", "Ryan Watson"]
   arxiv: https://arxiv.org/abs/2605.29103
@@ -29,7 +29,7 @@
 
 - number: 4
   category: preprint
-  status: Submitted
+  status: submitted
   title: The arithmetic rank of nullcones of classical invariant rings
   coauthors: ["Manav Batavia", "Aryaman Maithani"]
   arxiv: https://arxiv.org/abs/2608.29445
@@ -38,6 +38,6 @@
 
 - number: 5
   category: preprint
-  status: Submitted
+  status: submitted
   title: Symbolic powers and asymptotic invariants of invariant ideals in determinantal rings
   coauthors: ["Sankhaneel Bisui", "Aryaman Maithani", "Alexandra Seceleanu", "Stephen Stern"]
