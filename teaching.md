@@ -29,7 +29,7 @@ description: "Teaching experience and undergraduate mentoring at the University 
 | Math 103 — College Algebra and Trigonometry | Fall 2025 |
 | Math 102 — Trigonometry | Fall 2024, Spring 2025 |
 
-## Graduate teaching assistant
+## Graduate Teaching Assistant
 
 | Course | Semester(s) |
 | :--- | :--- |
