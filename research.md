@@ -7,6 +7,7 @@ description: "Publications and preprints by Kesavan Mohana Sundaram in commutati
 ---
 
 My research is in Commutative Algebra and Homological Algebra. More particularly, my interests include arithmetic rank, cohomological support varieties, local cohomology, modules of finite length and finite projective dimension, and symbolic powers.
+{: .research-intro}
 
 ## Published papers
 
