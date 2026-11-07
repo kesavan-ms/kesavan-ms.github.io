@@ -2,7 +2,7 @@
 <ol class="paper-list"{% if papers.first.number %} start="{{ papers.first.number }}"{% endif %}>
   {% for paper in papers %}
   <li value="{{ paper.number }}">
-    <h3 class="paper-title">{% if paper.arxiv %}<a href="{{ paper.arxiv }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</h3>
+    <h3 class="paper-title">{{ paper.title }}</h3>
     <p class="paper-authors">with {% for coauthor in paper.coauthors %}{% unless forloop.first %}{% if forloop.last %}{% if forloop.length > 2 %},{% endif %} and {% else %}, {% endif %}{% endunless %}{% assign coauthor_url = site.data.coauthors[coauthor] %}{% if coauthor_url %}<a href="{{ coauthor_url }}">{{ coauthor }}</a>{% else %}{{ coauthor }}{% endif %}{% endfor %}</p>
     {% if paper.journal %}<p class="paper-citation"><em>{{ paper.journal }}</em> {{ paper.citation }}</p>{% endif %}
     {% if paper.arxiv or paper.doi or paper.status %}<p class="paper-links">{% if paper.arxiv %}<a href="{{ paper.arxiv }}">arXiv</a>{% if paper.doi or paper.status %}<span aria-hidden="true"> · </span>{% endif %}{% endif %}{% if paper.doi %}<a href="{{ paper.doi }}">Journal</a>{% elsif paper.status %}<span class="paper-status">{{ paper.status }}</span>{% endif %}</p>{% endif %}
