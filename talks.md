@@ -1,6 +1,7 @@
 ---
 title: Talks
 layout: page
+page_class: talks-page
 permalink: /talks/
 section: talks
 description: "Upcoming talks, invited talks, and seminar presentations by Kesavan Mohana Sundaram."

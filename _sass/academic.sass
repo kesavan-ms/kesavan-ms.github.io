@@ -103,12 +103,13 @@ header a, footer a
   font-size: 2rem
   line-height: 1.2
 
-.role
-  margin: .5rem 0 1.25rem
+.hero-copy .role
+  margin: .15rem 0 1rem
   color: #5b6573
 
 .hero-copy p
   margin-top: 0
+  line-height: 1.4
 
 .profile-links
   display: flex
@@ -140,6 +141,7 @@ header a, footer a
   padding: .9rem 0
   margin: 0
   border-top: 1px solid #dce0e7
+  line-height: 1.4
 
 .upcoming-list time
   color: #5b6573
@@ -151,20 +153,19 @@ header a, footer a
 .event-description
   display: block
   font-size: .94rem
+  margin-top: .15rem
 
 .paper-list, .mentoring-list
   padding-left: 1.6rem
+  margin: 1rem 0 0
 
 .paper-list > li, .mentoring-list > li
   padding-left: .35rem
 
-.paper-list
-  margin: 1rem 0 0
-
-.paper-list > li
+.paper-list > li, .mentoring-entry
   margin: 0 0 1.75rem
 
-.paper-list > li:last-child
+.paper-list > li:last-child, .mentoring-entry:last-child
   margin-bottom: 0
 
 .paper-list + h2
@@ -248,30 +249,29 @@ article li
 .teaching-page > h2:first-of-type, .service-page > h2:first-of-type
   margin-top: 0
 
-.mentoring-entry
-  margin: 1.4rem 0 2.25rem
-
 .mentoring-entry h3
-  margin: 0 0 .45rem
+  margin: 0
+  line-height: 1.4
 
 .mentoring-entry p
-  margin: .5rem 0
-  line-height: 1.6
+  margin: .15rem 0 0
+  line-height: 1.4
 
 .mentoring-entry .mentoring-meta
-  margin: 0 0 .7rem
   color: #5b6573
   text-align: left
 
 .teaching-page table
   table-layout: fixed
+  line-height: 1.4
 
 .teaching-page th:first-child, .teaching-page td:first-child
   width: 65%
 
 .service-page h3
   color: #4b547a
-  margin: 1.8rem 0 .35rem
+  margin: 1.75rem 0 0
+  line-height: 1.4
 
 .service-page h2
   margin-top: 2.5rem
@@ -280,17 +280,26 @@ article li
   margin-top: 1.2rem
 
 .service-page p
-  margin: .65rem 0
-  line-height: 1.6
-
-.service-page h3 + p
-  margin-top: .35rem
+  margin: .15rem 0 0
+  line-height: 1.4
 
 .service-page ul
-  margin: .65rem 0 1.8rem
+  margin: .15rem 0 0
 
 .service-page li
-  margin: .45rem 0
+  margin: .15rem 0 0
+  line-height: 1.4
+
+.talks-page > ul:not(.upcoming-list) > li
+  margin: .65rem 0
+  line-height: 1.4
+
+.talks-page > ul:not(.upcoming-list) > li > strong
+  display: block
+  margin-bottom: .15rem
+
+.talks-page > ul:not(.upcoming-list) > li > strong + br
+  display: none
 
 .visits-page .section-nav
   margin-bottom: 1.75rem
@@ -302,24 +311,15 @@ article li
   margin-top: 1.5rem
 
 .visits-page h3
-  margin: 1.8rem 0 .35rem
+  margin: 1.75rem 0 0
+  line-height: 1.4
 
 .visits-page h2 + h3
   margin-top: 1.2rem
 
 .visits-page p
-  margin: .65rem 0
-  line-height: 1.6
-
-.visits-page h3 + p
-  margin-top: .35rem
-
-.visits-page .visit-meta
-  margin-bottom: .35rem
-
-.visits-page .visit-description
-  margin-top: .35rem
-  margin-bottom: 0
+  margin: .15rem 0 0
+  line-height: 1.4
 
 .visits-page .visit-description + h2
   margin-top: 2rem
@@ -329,7 +329,7 @@ article li
 
 .visits-page li
   margin: .45rem 0
-  line-height: 1.6
+  line-height: 1.4
 
 body > footer
   gap: 1rem
@@ -385,7 +385,7 @@ body > footer
 
   .upcoming-list li
     grid-template-columns: minmax(0, 1fr)
-    gap: .2rem
+    gap: .15rem
 
   .abstract-content
     padding: .45rem .65rem
