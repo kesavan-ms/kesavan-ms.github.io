@@ -1,19 +1,25 @@
 ---
+title: Kesavan Mohana Sundaram
 layout: page
+permalink: /
+hide_title: true
 ---
 
-<div align="center">
-	<img src="IMG_2493.jpeg" width="350" height="350"> 
+<div class="home-hero">
+  <img class="portrait" src="{{ '/IMG_2493.jpeg' | relative_url }}" width="224" height="224" alt="Kesavan Mohana Sundaram">
+  <div class="hero-copy">
+    <h1>Kesavan Mohana Sundaram</h1>
+    <p class="role">PhD candidate in mathematics</p>
+    <p>I am a PhD candidate in the <a href="https://math.unl.edu">Department of Mathematics</a> at the <a href="https://www.unl.edu">University of Nebraska–Lincoln</a>, advised by <a href="https://eloisagrifo.github.io">Eloísa Grifo</a> and <a href="https://jack-jeffries.github.io">Jack Jeffries</a>.</p>
+    <p>I work in commutative algebra and homological algebra, and their interactions with algebraic geometry. My interests include arithmetic rank, local cohomology, cohomological support varieties, modules of finite length and finite projective dimension, and symbolic powers.</p>
+    <div class="profile-links">
+      <a class="cv-link" href="{{ '/Current_CV.pdf' | relative_url }}">Download CV (PDF)</a>
+      <a href="https://arxiv.org/a/mohanasundaram_k_1.html">arXiv</a>
+    </div>
+    <p class="contact-details"><a href="mailto:km2@huskers.unl.edu">km2@huskers.unl.edu</a><br>Office: 326 Avery Hall, University of Nebraska–Lincoln</p>
+  </div>
 </div>
 
-I am a fourth year PhD Candidate in the [Department of Mathematics](https://math.unl.edu) at the [University of Nebraska—Lincoln](https://www.unl.edu). I am advised by [Eloísa Grifo](https://eloisagrifo.github.io) and [Jack Jeffries](https://jack-jeffries.github.io). Broadly speaking, I am primarily interested in commutative algebra and homological algebra and their interactions with algebraic geometry. 
+## Upcoming
 
-You can find my CV [here!](Current_CV.pdf)
-
-**Contact:** km2@huskers.unl.edu <br/>
-**Office:** 326 Avery Hall, UNL
-
-
-
-
-
+{% include upcoming.html %}

@@ -1,6 +1,8 @@
 title: "Kesavan Mohana Sundaram"
 author: "Kesavan Mohana Sundaram"
-description: "Last updated: August 31, 2026"
+description: "Kesavan Mohana Sundaram is a PhD candidate in mathematics at the University of Nebraska–Lincoln, working in commutative algebra and homological algebra."
+url: "https://kesavan-ms.github.io"
+last_updated: "2026-11-07"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,16 +20,15 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "research.md", title: "Research"}
-  - {file: "organizing.md", title: "Organizing"}
-  - {file: "teaching.md", title: "Teaching"}
-  - {file: "talks.md", title: "Talks"}
-  - {file: "visits.md", title: "Visits"} 
- 
-  # - {title: "CV" , url: "CV_UNL.pdf"}
+  - {file: "teaching.md", title: "Teaching & Mentoring"}
+  - {file: "organizing.md", title: "Service"}
+  - {file: "talks.md", title: "Talks & Visits", section: "talks"}
+  - {title: "CV", url: "/Current_CV.pdf"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:km2@huskers.unl.edu"}
+  - {title: arXiv, url: "https://arxiv.org/a/mohanasundaram_k_1.html"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

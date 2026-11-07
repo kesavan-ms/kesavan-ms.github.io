@@ -1,20 +1,17 @@
 ---
-title: Preprints and Publications
+title: Research
 layout: page
+permalink: /research/
+mathjax: true
+description: "Publications and preprints by Kesavan Mohana Sundaram in commutative algebra and homological algebra."
 ---
 
-1. The arithmetic rank of the residual intersections of a complete intersection ideal <br>
-   with Manav Batavia, Taylor Murray, and Vaibhav Pandey <br>
-   _International Mathematics Research Notices. IMRN_, (2026), 21 pages. [[arXiv](https://arxiv.org/abs/2510.17049)][[Journal](https://doi.org/10.1093/imrn/rnag091)]
+My research is in commutative algebra and homological algebra, and their interactions with algebraic geometry. I am particularly interested in arithmetic rank, cohomological support varieties, local cohomology, modules of finite length and finite projective dimension, and symbolic powers.
 
-2. Lifting systems for finite length modules <br>
-   with Benjamin Katz, Nawaj KC, Andrew J. Soto Levins, and Ryan Watson <br>
-   submitted, 19 pages. [[arXiv](https://arxiv.org/abs/2602.01440)]
+## Published papers
 
-3. Cohomological support varieties for monomial ideals <br>
-   with Kara Fagerstrom, Julianne Faur, Benjamin Katz, Stephen Stern, and Ryan Watson <br>
-   submitted, 32 pages. [[arXiv](https://arxiv.org/abs/2605.29103)]
+{% include papers.html category="published" %}
 
-4. The arithmetic rank of nullcones of classical invariant rings <br>
-   with Manav Batavia, and Aryaman Maithani <br>
-   submitted, 17 pages. [[arXiv](https://arxiv.org/abs/2608.29445)]
+## Preprints
+
+{% include papers.html category="preprint" %}

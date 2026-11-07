@@ -1,39 +1,60 @@
 ---
-title: "Workshops/Conferences"
+title: Research Visits & Conferences
+layout: page
+permalink: /visits/
+section: talks
+description: "Research visits, conferences, and mathematics programs attended by Kesavan Mohana Sundaram."
 ---
 
-**2026**
-- URiCA (Upcoming Researchers in Commutative Algebra) at University of Nebraska-Lincoln
-- Singularities in Commutative Algebra through Cohomological methods at MSRI/SLMath, California
-- Pan-American School in Commutative Algebra 2.0 at CIMAT, Mexico
-- A Celebration of Golod’s Mathematical Legacy at University of Warwick, UK
-- AMS Spring Central Sectional Meeting at University of North Dakota
-- CA+ at Iowa State University
+{% include talks-visits-nav.html %}
 
-**2025**
-- PL -- Commutative algebra and modular representation theory at IIT Madras, India
-- KUMUNU at University of Missouri, Columbia
-- AMS Fall Central Sectional Meeting at Saint Louis University, Missouri
-- Summer CAMP 2.0 (Commutative Algebra Market Preparedness) at University of Nebraska-Lincoln
-- Singularities in Algebra and Geometry at CIMAT, Mexico
-- An Introduction to Recent Trends in Commutative Algebra at The Fields Institute, Canada
-- URiCA (Upcoming Researchers in Commutative Algebra) at University of Nebraska-Lincoln
-- Rayfest at University of Nebraska-Lincoln
-- Commutative algebra in mixed characteristic at University of Nebraska-Lincoln
+## Research visits
 
-**2024**
-- AIS -- Cohomology of Commutative Algebras at IIT Madras, India
-- KUMUNU at University of Missouri, Columbia
-- BRIDGES at University of Utah
-- URiCA (Upcoming Researchers in Commutative Algebra) at University of Nebraska-Lincoln
-- Recent Developments in Commutative Algebra in MSRI/SLMath, California
-- TAGS: Syzygies over Texas at Texas A&M University
-- Introductory Workshop: Commutative Algebra in MSRI/SLMath, California
-- Connections Workshop: Commutative Algebra in MSRI/SLMath, California
+### SLMath AxIOM program
 
-**2023**
-- GEMS at University of Minnesota
-- AMS Sectional Meeting at Craigton University, Nebraska
-- KUMUNU at University of Missouri, Columbia
-- BrianFest at University of Nebraska-Lincoln
-- Summer CAMP (Commutative Algebra Market Preparedness) at University of Nebraska-Lincoln
+**Planned visit · January–February 2027 · Berkeley, California**
+
+Program member, *Commutative Algebra, Representation Theory, and other Interactions*, at SLMath (formerly MSRI).
+
+## Conferences and programs attended
+
+### 2026
+
+- **October:** New Homological Methods in Toric Geometry, Oberwolfach, Germany
+- **August:** URiCA (Upcoming Researchers in Commutative Algebra), Lincoln, Nebraska
+- **July:** Singularities in Commutative Algebra through Cohomological Methods, SLMath, Berkeley, California
+- **May:** Pan-American School in Commutative Algebra 2.0, CIMAT, Guanajuato, Mexico
+- **April:** A Celebration of Golod’s Mathematical Legacy, University of Warwick, United Kingdom
+- **April:** AMS Spring Central Sectional Meeting, North Dakota State University, Fargo, North Dakota
+- **March:** CA+, Iowa State University, Ames, Iowa
+
+### 2025
+
+- **December:** PL — Commutative Algebra and Modular Representation Theory, IIT Madras, India
+- **October:** KUMUNU, University of Missouri, Columbia
+- **October:** AMS Fall Central Sectional Meeting, Saint Louis University, Missouri
+- **August:** Summer CAMP 2.0 (Commutative Algebra Market Preparedness), Lincoln, Nebraska
+- **June:** Singularities in Algebra and Geometry, CIMAT, Guanajuato, Mexico
+- **June:** An Introduction to Recent Trends in Commutative Algebra, The Fields Institute, Toronto, Canada
+- **May:** URiCA, Lincoln, Nebraska
+- **April:** Rayfest, Lincoln, Nebraska
+- **March:** Commutative Algebra in Mixed Characteristic, Lincoln, Nebraska
+
+### 2024
+
+- **December:** AIS — Cohomology of Commutative Algebras, IIT Madras, India
+- **September:** KUMUNU, University of Missouri, Columbia
+- **July:** BRIDGES, University of Utah, Salt Lake City
+- **May:** URiCA, Lincoln, Nebraska
+- **April:** Recent Developments in Commutative Algebra, MSRI/SLMath, Berkeley, California
+- **April:** TAGS: Syzygies over Texas, Texas A&M University, College Station
+- **January:** Introductory Workshop: Commutative Algebra, MSRI/SLMath, Berkeley, California
+- **January:** Connections Workshop: Commutative Algebra, MSRI/SLMath, Berkeley, California
+
+### 2023
+
+- **November:** GEMS, University of Minnesota, Minneapolis
+- **October:** AMS Sectional Meeting, Omaha, Nebraska
+- **September:** KUMUNU, University of Missouri, Columbia
+- **August:** BrianFest, Lincoln, Nebraska
+- **August:** Summer CAMP (Commutative Algebra Market Preparedness), Lincoln, Nebraska
