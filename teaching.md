@@ -20,7 +20,7 @@ description: "Teaching experience and undergraduate mentoring at the University 
   <h3 id="representation-theory">Representation theory of finite groups</h3>
   <p class="mentoring-meta"><strong>Spring 2026 · Directed Reading Program</strong></p>
   <p>Undergraduate mentee: <a href="https://math.unl.edu/person/eric-woods/">Eric Woods</a>, now a graduate student at UNL.</p>
-  <p>Read through <a href="https://fardila.com/Clase/RepTh/smith.pdf"><em>Groups and their Representations</em></a> by <a href="https://sites.lsa.umich.edu/kesmith/">Karen Smith</a>.</p>
+  <p>Read through <a href="https://fardila.com/Clase/RepTh/smith.pdf"><em>Groups and their Representations</em></a> by <a href="https://sites.lsa.umich.edu/kesmith/">Karen E. Smith</a>.</p>
 </li>
 </ol>
 
