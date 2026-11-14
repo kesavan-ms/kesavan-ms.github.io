@@ -20,7 +20,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "research.md", title: "Research"}
-  - {file: "teaching.md", title: "Teaching & Mentoring"}
+  - {file: "teaching.md", title: "Mentoring & Teaching"}
   - {file: "organizing.md", title: "Service"}
   - {file: "talks.md", title: "Talks & Visits", section: "talks"}
   - {title: "CV", url: "/Current_CV.pdf"}

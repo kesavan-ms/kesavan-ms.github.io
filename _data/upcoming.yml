@@ -10,7 +10,7 @@
   datetime: "2027-01"
   end_date: "2027-02-28"
   kind: visit
-  description: "Planned research visit · Berkeley, California"
+  description: "Research visit · Berkeley, California"
   url: https://www.slmath.org/axiom/410
 - title: AMS Spring Central Sectional Meeting
   when: April 2027

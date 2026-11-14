@@ -1,9 +1,9 @@
 ---
-title: Teaching & Mentoring
+title: Mentoring & Teaching
 layout: page
 permalink: /teaching/
 page_class: teaching-page
-description: "Teaching experience and undergraduate mentoring at the University of Nebraska–Lincoln."
+description: "Undergraduate mentoring and teaching experience at the University of Nebraska–Lincoln."
 ---
 
 ## Mentoring
@@ -13,7 +13,7 @@ description: "Teaching experience and undergraduate mentoring at the University 
   <h3 id="positive-characteristic">Positive characteristic methods in commutative algebra</h3>
   <p class="mentoring-meta"><strong>Fall 2026 · Directed Reading Program</strong></p>
   <p>Undergraduate mentee: Maxim Karpuk, co-advised with <a href="https://robertirelandmath.github.io/">Robert Ireland</a>.</p>
-  <p>Reading: §1 of <a href="https://jack-jeffries.github.io/">Jack Jeffries</a>’s <a href="https://jack-jeffries.github.io/files/CanadaLectures.pdf">Frobenius notes</a> and §§1–2 of <a href="https://link.springer.com/book/10.1007/978-3-031-88819-9"><em>Beginning in Algebraic Geometry</em></a> by <a href="https://sites.google.com/site/emilyclader/">Clader</a> and <a href="https://sites.google.com/view/rossd/home">Ross</a>.</p>
+  <p>Reading: <a href="https://jack-jeffries.github.io/">Jack Jeffries</a>’s <a href="https://jack-jeffries.github.io/files/CanadaLectures.pdf">Frobenius notes</a> and §§1–2 of <a href="https://link.springer.com/book/10.1007/978-3-031-88819-9"><em>Beginning in Algebraic Geometry</em></a> by <a href="https://sites.google.com/site/emilyclader/">Clader</a> and <a href="https://sites.google.com/view/rossd/home">Ross</a>.</p>
 </li>
 
 <li class="mentoring-entry" aria-labelledby="representation-theory">
@@ -28,13 +28,13 @@ description: "Teaching experience and undergraduate mentoring at the University 
 
 | Course | Semester(s) |
 | :--- | :--- |
-| Math 103 — College Algebra and Trigonometry | Fall 2025 |
-| Math 102 — Trigonometry | Fall 2024, Spring 2025 |
+| [Math 103 — College Algebra and Trigonometry](https://catalog.unl.edu/undergraduate/courses/math/#103) | Fall 2025 |
+| [Math 102 — Trigonometry](https://catalog.unl.edu/undergraduate/courses/math/#102) | Fall 2024, Spring 2025 |
 
 ## Graduate Teaching Assistant
 
 | Course | Semester(s) |
 | :--- | :--- |
-| Math 208 — Calculus III | Spring 2026, Fall 2026 |
-| Math 107 — Calculus II | Spring 2024 |
-| Math 106 — Calculus I | Fall 2023, Summer 2024 |
+| [Math 208 — Calculus III](https://catalog.unl.edu/undergraduate/courses/math/#208) | Spring 2026, Fall 2026 |
+| [Math 107 — Calculus II](https://catalog.unl.edu/undergraduate/courses/math/#107) | Spring 2024 |
+| [Math 106 — Calculus I](https://catalog.unl.edu/undergraduate/courses/math/#106) | Fall 2023, Summer 2024 |
