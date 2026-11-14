@@ -13,7 +13,7 @@ description: "Undergraduate mentoring and teaching experience at the University 
   <h3 id="positive-characteristic">Positive characteristic methods in commutative algebra</h3>
   <p class="mentoring-meta"><strong>Fall 2026 · Directed Reading Program</strong></p>
   <p>Undergraduate mentee: Maxim Karpuk, co-advised with <a href="https://robertirelandmath.github.io/">Robert Ireland</a>.</p>
-  <p>Reading: <a href="https://jack-jeffries.github.io/">Jack Jeffries</a>’s <a href="https://jack-jeffries.github.io/files/CanadaLectures.pdf">Frobenius notes</a> and §§1–2 of <a href="https://link.springer.com/book/10.1007/978-3-031-88819-9"><em>Beginning in Algebraic Geometry</em></a> by <a href="https://sites.google.com/site/emilyclader/">Clader</a> and <a href="https://sites.google.com/view/rossd/home">Ross</a>.</p>
+  <p>Reading: <a href="https://jack-jeffries.github.io/">Jack Jeffries</a>’s <a href="https://jack-jeffries.github.io/files/CanadaLectures.pdf">Frobenius notes</a> and <a href="https://link.springer.com/book/10.1007/978-3-031-88819-9"><em>Beginning in Algebraic Geometry</em></a> by <a href="https://sites.google.com/site/emilyclader/">Clader</a> and <a href="https://sites.google.com/view/rossd/home">Ross</a>.</p>
 </li>
 
 <li class="mentoring-entry" aria-labelledby="representation-theory">
