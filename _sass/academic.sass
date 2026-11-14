@@ -155,6 +155,18 @@ header a, footer a
   font-size: .94rem
   margin-top: .15rem
 
+.research-page
+  box-sizing: border-box
+  max-width: 60rem
+  margin-left: auto
+  margin-right: auto
+
+.research-intro
+  margin: 0 0 2rem
+  text-align: left
+  line-height: 1.65
+  hyphens: none
+
 .paper-list, .mentoring-list
   padding-left: 1.6rem
   margin: 1rem 0 0
@@ -294,13 +306,6 @@ article li
   margin: .65rem 0
   line-height: 1.4
 
-.talks-page > ul:not(.upcoming-list) > li > strong
-  display: block
-  margin-bottom: .15rem
-
-.talks-page > ul:not(.upcoming-list) > li > strong + br
-  display: none
-
 .visits-page .section-nav
   margin-bottom: 1.75rem
 
@@ -324,10 +329,10 @@ article li
 .visits-page .visit-description + h2
   margin-top: 2rem
 
-.visits-page ul
+.visits-page ul:not(.upcoming-list)
   margin: .65rem 0 1.8rem
 
-.visits-page li
+.visits-page ul:not(.upcoming-list) li
   margin: .45rem 0
   line-height: 1.4
 
@@ -357,10 +362,6 @@ body > footer
   clip-path: inset(50%)
   white-space: nowrap
   border: 0
-
-@media (min-width: 58em)
-  .research-intro
-    text-wrap: balance
 
 @media (max-width: 58em)
   body > header nav
