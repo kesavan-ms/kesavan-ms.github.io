@@ -10,7 +10,7 @@ hide_title: true
   <div class="hero-copy">
     <h1>Kesavan Mohana Sundaram</h1>
     <p class="role">PhD candidate in mathematics</p>
-    <p>I am a PhD candidate in the <a href="https://math.unl.edu">Department of Mathematics</a> at the <a href="https://www.unl.edu">University of Nebraska–Lincoln</a>, advised by <a href="https://eloisagrifo.github.io">Eloísa Grifo</a> and <a href="https://jack-jeffries.github.io">Jack Jeffries</a>.</p>
+    <p>I am a fourth-year graduate student in the <a href="https://math.unl.edu">Department of Mathematics</a> at the <a href="https://www.unl.edu">University of Nebraska–Lincoln</a>, advised by <a href="https://eloisagrifo.github.io">Eloísa Grifo</a> and <a href="https://jack-jeffries.github.io">Jack Jeffries</a>.</p>
     <p>I work in commutative algebra and homological algebra, and their interactions with algebraic geometry. My interests include arithmetic rank, local cohomology, cohomological support varieties, modules of finite length and finite projective dimension, and symbolic powers.</p>
     <div class="profile-links">
       <a class="cv-link" href="{{ '/Current_CV.pdf' | relative_url }}">CV</a>
