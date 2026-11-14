@@ -33,13 +33,13 @@ Co-organizer · Spring 2024, Summer 2024–2026
 
 Co-organizer · [Spring 2026](https://caabsatunl.github.io/CAABS/current.html), with [Robert Ireland](https://robertirelandmath.github.io/)
 
-Collaborative reading and problem sessions using [Swanson](https://www.math.purdue.edu/~iswanso/) and [Huneke](https://www.math.virginia.edu/people/clh4xd/)’s textbook, *Integral Closure*.
+Collaborative reading and problem sessions using [Swanson](https://www.math.purdue.edu/~iswanso/) and [Huneke](https://www.math.virginia.edu/people/clh4xd/)’s textbook on [Integral Closure](https://www.math.purdue.edu/~iswanso/book/SwansonHuneke.pdf).
 
 ### [Cohomology Club](https://sites.google.com/view/cohomologyclub/home)
 
 Co-organizer · [Fall 2025](https://sites.google.com/view/cohomologyclub/schedule), with [Anna Brosowsky](https://anna-brosowsky.github.io/index.html) and [Jack Jeffries](https://jack-jeffries.github.io/)
 
-Collaborative reading group on cohomology using [Hatcher](https://pi.math.cornell.edu/~hatcher/index.html)’s *Algebraic Topology*.
+Collaborative reading group on cohomology using [Hatcher](https://pi.math.cornell.edu/~hatcher/index.html)’s textbook on [Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf).
 
 ## Other organizing and outreach
 
