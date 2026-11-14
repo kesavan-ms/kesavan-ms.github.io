@@ -49,10 +49,10 @@ Co-organizer · 2024–2026, with [Ganapathy Krishnamoorthy](https://sites.googl
 
 ### [Commutative Algebra Student Seminar](https://math.iitm.ac.in/event.php?ename=15)
 
-Co-organizer, Indian Institute of Technology Madras · June–July 2023
+Co-organizer · Indian Institute of Technology Madras · June–July 2023
 
 ### [FORAYS 2023](https://math.iitm.ac.in/event.php?ename=16)
 
-Co-organizer, Indian Institute of Technology Madras · February 2023
+Co-organizer · Indian Institute of Technology Madras · February 2023
 
 Mathematics outreach activities for school and undergraduate students.
