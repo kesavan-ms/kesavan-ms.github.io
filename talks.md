@@ -14,7 +14,7 @@ description: "Research visits, upcoming talks, invited talks, seminar presentati
 **Planned visit · January–February 2027 · Berkeley, California**
 {: .visit-meta}
 
-Program member, *Commutative Algebra, Representation Theory, and other Interactions*, at SLMath (formerly MSRI).
+Program member · *Commutative Algebra, Representation Theory, and other Interactions* · SLMath (formerly MSRI).
 {: .visit-description}
 
 ## Upcoming talks
