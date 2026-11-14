@@ -16,7 +16,7 @@ Committee member · Fall 2026
 
 Co-organizer · Fall 2025–Present
 
-Undergraduate reading projects on math research topics beyond the curriculum, guided by graduate students.
+Reading projects with undergrads on math research topics beyond their curriculum, mentored by graduate students.
 
 - [Fall 2026](https://drp-unl.github.io/projects.html), with [Derek Deblieck](https://math.unl.edu/person/derek-deblieck/) and [Michael Pieper](https://math.unl.edu/person/michael-pieper/)
 - [Spring 2026](https://drp-unl.github.io/projects_S26.html) and [Fall 2025](https://drp-unl.github.io/projects_F25.html), with [Derek Deblieck](https://math.unl.edu/person/derek-deblieck/) and [Ryan Watson](https://rawatson1997.github.io/)
