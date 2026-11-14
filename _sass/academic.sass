@@ -1,0 +1,400 @@
+html
+  padding: 0
+
+body
+  max-width: 1120px
+  margin: 0 auto
+  font-size: 16px
+  line-height: 1.55
+
+main
+  flex: 1
+  min-width: 0
+
+body > header, body > footer, main > article
+  padding: 1.5rem 3rem
+
+body > header
+  display: block
+
+body > header nav, body > footer nav
+  display: flex
+  flex-wrap: wrap
+  gap: .45rem 1.2rem
+  margin: 0
+
+nav a
+  margin: 0
+
+body > header nav
+  justify-content: center
+  gap: .4rem 2.25rem
+  font-size: .94rem
+
+body > header nav a
+  display: flex
+  align-items: center
+  justify-content: center
+  min-height: 2.5rem
+  padding: .2rem .3rem
+  text-align: center
+
+body > header a.selected
+  text-decoration: underline
+  text-underline-offset: .4em
+  text-decoration-thickness: 2px
+
+main > article
+  padding-top: 2.75rem
+  padding-bottom: 3.5rem
+
+article > header
+  margin-bottom: 1.2rem
+
+article > header h1
+  font-size: 2rem
+  line-height: 1.25
+
+h2
+  margin: 1.75rem 0 .75rem
+  font-size: 1.4rem
+  line-height: 1.35
+
+h3
+  margin: 1.25rem 0 .35rem
+  font-size: 1.1rem
+  line-height: 1.5
+
+p
+  margin: .85rem 0
+  text-align: justify
+  hyphens: auto
+
+.role, .contact-details, .paper-authors, .paper-citation, .paper-links
+  text-align: left
+
+a
+  color: #315ba8
+  text-underline-offset: .18em
+
+a:focus-visible, summary:focus-visible
+  outline: 3px solid #a26a0a
+  outline-offset: 4px
+  border-radius: 2px
+
+header a, footer a
+  color: inherit
+
+.home-hero
+  display: grid
+  grid-template-columns: 224px minmax(0, 1fr)
+  align-items: start
+  gap: 2.5rem
+  margin-bottom: 2.5rem
+
+.portrait
+  width: 224px
+  height: 224px
+  object-fit: cover
+  margin: .3rem 0 0
+  border-radius: 4px
+
+.hero-copy h1
+  margin: 0
+  font-size: 2rem
+  line-height: 1.2
+
+.hero-copy .role
+  margin: .15rem 0 1rem
+  color: #5b6573
+
+.hero-copy p
+  margin-top: 0
+  line-height: 1.4
+
+.profile-links
+  display: flex
+  align-items: center
+  flex-wrap: wrap
+  gap: 1.25rem
+  margin: 1.4rem 0 1.2rem
+
+.cv-link
+  display: inline-block
+  padding: .45rem .85rem
+  border: 1px solid currentColor
+  border-radius: 3px
+  font-weight: 600
+
+.contact-details
+  font-size: .92rem
+  margin-bottom: 0
+
+.upcoming-list
+  padding: 0
+  list-style: none
+  margin: 0
+
+.upcoming-list li
+  display: grid
+  grid-template-columns: 12rem minmax(0, 1fr)
+  gap: 1rem
+  padding: .9rem 0
+  margin: 0
+  border-top: 1px solid #dce0e7
+  line-height: 1.4
+
+.upcoming-list time
+  color: #5b6573
+  font-size: .94rem
+
+.upcoming-list a
+  font-weight: 600
+
+.event-description
+  display: block
+  font-size: .94rem
+  margin-top: .15rem
+
+.research-page, .teaching-page, .service-page, .talks-page, .visits-page
+  box-sizing: border-box
+  max-width: 60rem
+  margin-left: auto
+  margin-right: auto
+
+.research-intro
+  margin: 0 0 1.75rem
+  text-align: justify
+  text-align-last: left
+  line-height: 1.55
+  hyphens: auto
+  text-wrap: wrap
+
+.paper-list, .mentoring-list
+  padding-left: 1.6rem
+  margin: .75rem 0 0
+
+.paper-list > li, .mentoring-list > li
+  padding-left: .35rem
+
+.paper-list > li, .mentoring-entry
+  margin: 0 0 1.75rem
+
+.paper-list > li:last-child, .mentoring-entry:last-child
+  margin-bottom: 0
+
+.paper-list + h2
+  margin-top: 1.75rem
+
+.paper-title
+  font-size: 1.05rem
+  margin: 0
+  line-height: 1.4
+
+.paper-title a
+  color: inherit
+
+.paper-authors, .paper-citation, .paper-links
+  margin: .15rem 0 0
+  line-height: 1.4
+
+.paper-authors
+  color: #5b6573
+
+.paper-links
+  display: flex
+  flex-wrap: wrap
+  align-items: baseline
+  gap: .35rem
+
+.paper-abstract
+  margin: .15rem 0 0
+
+.paper-abstract summary
+  width: fit-content
+  cursor: pointer
+  color: #315ba8
+  line-height: 1.4
+
+.paper-abstract summary:hover
+  text-decoration: underline
+
+.abstract-content
+  margin-top: .4rem
+  padding: .5rem .9rem
+  border-left: 2px solid #dce0e7
+  font-size: .95rem
+  line-height: 1.55
+
+.abstract-content p
+  margin: 0
+
+.section-nav
+  display: flex
+  flex-wrap: wrap
+  gap: .5rem 1.5rem
+  margin: -.4rem 0 2rem
+
+.section-nav [aria-current="page"]
+  color: inherit
+  text-decoration: underline
+
+table
+  display: table
+  width: 100%
+  border-collapse: collapse
+  border-spacing: 0
+  box-shadow: none
+  overflow: visible
+  font-size: .97rem
+
+th, td
+  padding: .65rem .8rem
+  box-shadow: none
+  border-bottom: 1px solid #dce0e7
+  text-align: left
+  vertical-align: top
+
+th
+  background: #f1f3f6
+
+article li
+  margin-bottom: .65rem
+
+.teaching-page > h2:first-of-type, .service-page > h2:first-of-type, .talks-page > h2:first-of-type
+  margin-top: 0
+
+.mentoring-entry h3
+  margin: 0
+  line-height: 1.4
+
+.mentoring-entry p
+  margin: .15rem 0 0
+  line-height: 1.4
+
+.mentoring-entry .mentoring-meta
+  color: #5b6573
+  text-align: left
+
+.teaching-page table
+  table-layout: fixed
+  line-height: 1.4
+
+.teaching-page th:first-child, .teaching-page td:first-child
+  width: 65%
+
+.service-page h3
+  color: #4b547a
+  margin: 1.25rem 0 0
+  line-height: 1.4
+
+.service-page h3 a
+  color: inherit
+
+.service-page h2 + h3
+  margin-top: .85rem
+
+.service-page p
+  margin: .15rem 0 0
+  line-height: 1.4
+
+.service-page ul
+  margin: .15rem 0 0
+
+.service-page li
+  margin: .15rem 0 0
+  line-height: 1.4
+
+.talks-page > ul:not(.upcoming-list) > li
+  margin: .65rem 0
+  line-height: 1.4
+
+.visits-page .section-nav
+  margin-bottom: 1.75rem
+
+.visits-page .section-nav + h2
+  margin-top: 1.3rem
+
+.visits-page h3
+  margin: 1.25rem 0 0
+  line-height: 1.4
+
+.visits-page h2 + h3
+  margin-top: .85rem
+
+.visits-page p
+  margin: .15rem 0 0
+  line-height: 1.4
+
+.visits-page .visit-description + h2
+  margin-top: 1.75rem
+
+.visits-page ul:not(.upcoming-list)
+  margin: .65rem 0 1.75rem
+
+.visits-page ul:not(.upcoming-list) li
+  margin: .45rem 0
+  line-height: 1.4
+
+body > footer
+  gap: 1rem
+  font-size: .9rem
+
+.skip-link
+  position: absolute
+  top: -10rem
+  left: 1rem
+  padding: .7rem 1rem
+  background: #ffffff
+  color: #212228
+  z-index: 10
+
+.skip-link:focus
+  top: 1rem
+
+.visually-hidden
+  position: absolute
+  width: 1px
+  height: 1px
+  padding: 0
+  margin: -1px
+  overflow: hidden
+  clip-path: inset(50%)
+  white-space: nowrap
+  border: 0
+
+@media (max-width: 58em)
+  body > header nav
+    display: grid
+    grid-template-columns: repeat(3, minmax(0, 1fr))
+    gap: .4rem .5rem
+
+@media (max-width: 42em)
+  body > header, body > footer, main > article
+    padding-left: 1.4rem
+    padding-right: 1.4rem
+
+  main > article
+    padding-top: 2rem
+
+  .home-hero
+    grid-template-columns: minmax(0, 1fr)
+    gap: 1.5rem
+
+  .portrait
+    width: 160px
+    height: 160px
+
+  .hero-copy h1, article > header h1
+    font-size: 1.75rem
+
+  .upcoming-list li
+    grid-template-columns: minmax(0, 1fr)
+    gap: .15rem
+
+  .abstract-content
+    padding: .45rem .65rem
+
+  th, td
+    padding-left: .5rem
+    padding-right: .5rem

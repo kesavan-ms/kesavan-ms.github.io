@@ -1,0 +1,25 @@
+{% assign papers = site.data.papers | where: "category", include.category %}
+<ol class="paper-list"{% if papers.first.number %} start="{{ papers.first.number }}"{% endif %}>
+  {% for paper in papers %}
+  <li value="{{ paper.number }}">
+    <h3 class="paper-title">{{ paper.title }}</h3>
+    <p class="paper-authors">with {% for coauthor in paper.coauthors %}{% unless forloop.first %}{% if forloop.last %}{% if forloop.length > 2 %},{% endif %} and {% else %}, {% endif %}{% endunless %}{% assign coauthor_url = site.data.coauthors[coauthor] %}{% if coauthor_url %}<a href="{{ coauthor_url }}">{{ coauthor }}</a>{% else %}{{ coauthor }}{% endif %}{% endfor %}</p>
+    {% if paper.journal %}<p class="paper-citation"><em>{{ paper.journal }}</em> {{ paper.citation }}</p>{% endif %}
+    {% if paper.pdf or paper.arxiv or paper.doi or paper.mathscinet or paper.status %}
+    <p class="paper-links">
+      {% if paper.pdf %}<a href="{{ paper.pdf }}">PDF</a>{% endif %}
+      {% if paper.arxiv %}{% if paper.pdf %}<span aria-hidden="true"> · </span>{% endif %}<a href="{{ paper.arxiv }}">arXiv</a>{% endif %}
+      {% if paper.doi %}{% if paper.pdf or paper.arxiv %}<span aria-hidden="true"> · </span>{% endif %}<a href="{{ paper.doi }}">Journal</a>{% endif %}
+      {% if paper.mathscinet %}{% if paper.pdf or paper.arxiv or paper.doi %}<span aria-hidden="true"> · </span>{% endif %}<a href="{{ paper.mathscinet }}">MathSciNet</a>{% endif %}
+      {% if paper.status %}{% if paper.pdf or paper.arxiv or paper.doi or paper.mathscinet %}<span aria-hidden="true"> · </span>{% endif %}<span class="paper-status">{{ paper.status }}</span>{% endif %}
+    </p>
+    {% endif %}
+    {% if paper.abstract %}
+    <details class="paper-abstract">
+      <summary>Abstract<span class="visually-hidden"> for {{ paper.title }}</span></summary>
+      <div class="abstract-content">{{ paper.abstract }}</div>
+    </details>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ol>
